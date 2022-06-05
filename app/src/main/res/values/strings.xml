@@ -2,7 +2,7 @@
     <string name="app_name">KILL IS KILL</string>
     <string name="NotificationTitle">Heads-Up title</string>
     <string name="NotificationDesc">Heads-Up description</string>
-    <string name="welcome_message">You are not speed :(</string>
+    <string name="welcome_message">You are not speed</string>
     <string name="permission_granted">Access to location granted.</string>
     <string name="permission_denied">You have to allow to access location.</string>
     <string name="turn_on_location">You have to turn on location.</string>
@@ -25,7 +25,7 @@
     <string name="speed_over_70_text">The fine is 300PLN</string>
     <string name="speed_over_50_text">The fine is 50PLN</string>
 
-    <string name="top_speed">TopSpeed:</string>
+    <string name="top_speed">TopSpeed: 0km/h</string>
 
     <string name="measure_waiting">Waiting</string>
     <string name="measure_go">GO!</string>

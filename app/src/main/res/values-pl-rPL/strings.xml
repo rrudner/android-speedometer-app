@@ -3,7 +3,7 @@
     <string name="app_name">KILL JEST KILL</string>
     <string name="NotificationTitle">Heads-Up title</string>
     <string name="NotificationDesc">Heads-Up description</string>
-    <string name="welcome_message">Nie jesteś prędkością :(</string>
+    <string name="welcome_message">Nie jesteś prędkością</string>
     <string name="permission_granted">Dostęp do lokalizacji przyznany.</string>
     <string name="permission_denied">Należy zezwolić na dostęp do lokalizacji.</string>
     <string name="turn_on_location">Musisz włączyć lokalizację.</string>
@@ -22,7 +22,7 @@
     <string name="speed_over_500_text">Kara to 25 lat więzienia albo 100 zł grzywny</string>
     <string name="speed_over_100_title">Przekroczyłeś 100km/h</string>
     <string name="speed_over_100_text">Mandat wynosi 1500zł i utrata prawa jazdy.</string>
-    <string name="top_speed">"Pręd. Maks.:"</string>
+    <string name="top_speed">Pręd. Maks.: 0km/h</string>
     <string name="measure_waiting">Oczekiwanie</string>
     <string name="measure_go">JEDŹ!</string>
     <string name="measure_stop">Musisz się zatrzymać</string>
