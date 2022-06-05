@@ -95,6 +95,7 @@ public class MainActivity extends AppCompatActivity {
         textTopSpeed = findViewById(R.id.topspeed);
         textFromZero = findViewById(R.id.from0);
         textFromOneHundred = findViewById(R.id.from100);
+        textTopSpeed.setText(getResources().getString(R.string.top_speed)+ " " + speed + "km/h");
 
         makeNotificationChannel();
         addListenerLocation();
