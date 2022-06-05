@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">KILL IS KILL</string>
-    <string name="NotificationTitle">Heads-Up title</string>
-    <string name="NotificationDesc">Heads-Up description</string>
+    <string name="NotificationTitle">Kill is kill</string>
+    <string name="NotificationDesc">Speed notification</string>
     <string name="welcome_message">You are not speed</string>
     <string name="permission_granted">Access to location granted.</string>
     <string name="permission_denied">You have to allow to access location.</string>

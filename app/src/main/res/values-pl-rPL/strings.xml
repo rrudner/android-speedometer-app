@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">KILL JEST KILL</string>
-    <string name="NotificationTitle">Heads-Up title</string>
-    <string name="NotificationDesc">Heads-Up description</string>
+    <string name="NotificationTitle">Kill jest kill</string>
+    <string name="NotificationDesc">Powiadomienie odnośnie prędkości</string>
     <string name="welcome_message">Nie jesteś prędkością</string>
     <string name="permission_granted">Dostęp do lokalizacji przyznany.</string>
     <string name="permission_denied">Należy zezwolić na dostęp do lokalizacji.</string>
